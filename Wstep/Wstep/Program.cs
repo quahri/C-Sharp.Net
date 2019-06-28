@@ -14,7 +14,7 @@ using System.Threading.Tasks;
             Human z = new Human();
                 h.setName("Marcin");
                 x.setName("Paweł");
-                z.setName("Dupa");
+                z.setName("Jacek");
             Console.WriteLine(h.getName());
             Console.WriteLine(x.getName());
             Console.WriteLine("Imie obiektu z: "+z.getName());
@@ -33,7 +33,7 @@ class Human
 
     public void setName(string sName)
     {
-        if (sName == "Dupa")
+        if (sName == "Jacek")
         {
             Console.WriteLine("Error!");
             this.name = "Nie ustawiono";
