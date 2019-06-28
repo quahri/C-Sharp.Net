@@ -1,0 +1,6 @@
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\bin\Debug\Wstep.exe.config
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\bin\Debug\Wstep.exe
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\bin\Debug\Wstep.pdb
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\obj\Debug\Wstep.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\obj\Debug\Wstep.exe
+C:\Users\Marcin\Desktop\Projekty C#\OBIEKTOWE\Wstep\Wstep\obj\Debug\Wstep.pdb
